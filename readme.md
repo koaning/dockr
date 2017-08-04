@@ -24,3 +24,7 @@ R -e "install.packages(c('shiny', 'rmarkdown'), repos='https://cran.rstudio.com/
 ```
 
 If you ever want to add packages to it you can do that from here. 
+
+# shout outs 
+
+This work is a slight modification from [this repo](https://github.com/rocker-org/shiny) by Winston Chang. 
